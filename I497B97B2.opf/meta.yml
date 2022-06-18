@@ -1,0 +1,36 @@
+id: I497B97B2
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T01:02:09.815888'
+last_modified: '2022-06-19T01:02:09.815902'
+parser: null
+source_metadata:
+  title: Maṇḍala-ritual of Vajrapañjara, colophon excerpt
+  author: གོང་དཀར་རྡོ་རྗེ་གདན་པ་ཀུན་དགའ་རྣམ་རྒྱལ།
+  description: 'Digital version 1.0 {Tibetan}; master xml (completed: 2014-10-29);
+    unrevised, thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/911
+  bases:
+    c626:
+      title: Maṇḍala-ritual of Vajrapañjara, colophon excerpt
+      order: 1
+      base_file: c626.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
